@@ -1,5 +1,6 @@
 Changes
 FAISS.xs
+LICENSE
 MANIFEST
 MANIFEST.SKIP
 Makefile.PL
